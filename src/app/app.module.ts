@@ -11,12 +11,14 @@ import { AppComponent } from './app.component';
 import { NgxChartsModule } from '@swimlane/ngx-charts';
 
 import { BarChartComponent } from './bar-chart/bar-chart.component';
+import { AreaChartComponent } from './area-chart/area-chart.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    BarChartComponent
+    BarChartComponent,
+    AreaChartComponent
   ],
   imports: [
     BrowserModule,
