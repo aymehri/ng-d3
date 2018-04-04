@@ -20,7 +20,7 @@ export class PieChartComponent implements OnInit {
   showLegend = true;
 
   colorScheme = {
-    domain: ['#5AA454', '#A10A28', '#C7B42C', '#AAAAAA']
+    domain: [ '#002941', '#D8B26B', '#4C4C4D', '#71C7B0', '#A74166', '#006372', '#5DB6D8', '#0d668f', '#b54049', '#1D4262']
   };
 
   // pie
