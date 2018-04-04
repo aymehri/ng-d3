@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import * as shape from 'd3-shape';
 import { single, multi } from './data';
 
 @Component({
