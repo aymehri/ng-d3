@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { single, multi } from './data';
+import { single, multi } from '../services/data';
 
 @Component({
   selector: 'app-area-chart',
